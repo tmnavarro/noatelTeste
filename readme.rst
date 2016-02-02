@@ -13,8 +13,11 @@ Teste foi realizado usando Codeigniter e Foundation
 -  3 - acesse com a url http://localhost/noatelTeste/
 
 Usuários para acesso 
+
   login: admin
+  
   senha: 123123
   
   login: admin2
+  
   senha: 321321
