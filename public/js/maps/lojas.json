@@ -1,0 +1,50 @@
+[
+    {
+        "Id": 1,
+        "Loja": "Itaim Bibi",
+        "Latitude": -23.58123400,
+        "Longitude": -46.67994799
+    },
+    {
+        "Id": 2,
+        "Loja": "Campo Belo",
+        "Latitude": -23.63028870,
+        "Longitude": -46.66518350
+    },
+    {
+        "Id": 3,
+        "Loja": "Bela Vista",
+        "Latitude": -23.56164500,
+        "Longitude": -46.64673800
+    },
+    {
+        "Id": 4,
+        "Loja": "Abcd",
+        "Latitude": -23.63518000,
+        "Longitude": -46.63885020
+    },
+    {
+        "Id": 5,
+        "Loja": "Real Parque",
+        "Latitude": -23.60814300,
+        "Longitude": -46.70629600
+    },
+    {
+        "Id": 6,
+        "Loja": "Mandaqui",
+        "Latitude": -23.47755100,
+        "Longitude": -46.63491700
+    },
+    {
+        "Id": 7,
+        "Loja": "Mauá",
+        "Latitude": -23.66897200,
+        "Longitude": -46.46275900
+    },
+    {
+        "Id": 8,
+        "Loja": "Osasco",
+        "Latitude": -23.53128500,
+        "Longitude": -46.78612800
+    }
+]

@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Arsenal';
+    src: url('../fonts/Arsenal-Bold.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Arsenal';
+    src: url('../fonts/Arsenal-BoldItalic.otf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Arsenal';
+    src: url('../fonts/Arsenal-Italic.otf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Arsenal';
+    src: url('../fonts/Arsenal-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('../fonts/BebasNeue-Bold.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('../fonts/BebasNeue-Book.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('../fonts/BebasNeue-Light.otf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('../fonts/BebasNeue-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BebasNeueThin';
+    src: url('../fonts/BebasNeue-Thin.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IntroCond';
+    src: url('../fonts/IntroCondBlackFree.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IntroCondLightFree';
+    src: url('../fonts/IntroCondLightFree.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IntroInline';
+    src: url('../fonts/IntroInline.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Intro';
+    src: url('../fonts/Intro.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MetaPlus';
+    src: url('../fonts/MetaPlusBookRegular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
